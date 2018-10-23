@@ -1,2 +1,2 @@
-# T-mki-mgi-tr-l-nnh-tho-cnh-nh-t
+#min max
 Tìm kiếm giá trị lớn nhất hoặc nhỏ nhất
